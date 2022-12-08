@@ -2,7 +2,12 @@
 # My name is Mihail Donchev 
 - 👀 I’m interested in sports and coding
 - 🌱 I’m currently learning JavaScript at SoftUni
-- 📫 How to reach me [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mihael.donchev)
+- 📫 How to reach me  <a href="https://www.facebook.com/mihael.donchev">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mihail-donchev-6a400025a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <h3 align='left'>Languages and Tools</h3>
 <p align='left'<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
