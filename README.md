@@ -1,10 +1,8 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-# My name is Mihail Donchev 
-- 👀 I’m interested in sports and coding
-- 🌱 I’m currently learning JavaScript at SoftUni
-- 📫 How to reach me  <a href="https://www.facebook.com/mihael.donchev">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
+# Hello, my name is Mihail Donchev 
+- 👀 I’m interested in coding and sports
+- 🌱 I’m currently learning <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>NodeJS</strong>, <strong>Angular</strong> and <strong>React</strong>
+- 📫 How to reach me 
   <a href="https://www.linkedin.com/in/mihail-donchev-6a400025a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
