@@ -24,7 +24,7 @@
      <a href="https://mongoosejs.com/docs/documents.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/package/mocha" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
    <a href="https://www.chaijs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="mocha" width="40" height="40"/> </a>  
-<a href="https://www.npmjs.com/package/jsonwebtoken" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" width="40" height="40"/> </a>
+
   
   <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MADNMD&show_icons=true&locale=en&layout=compact&theme=aura&text_color=00FFFB"" alt="MADNMD" />
 &nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=MADNMD&theme=aura&show_icons=true&locale=en" alt="MADNMD" /></p>
